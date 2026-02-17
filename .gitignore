@@ -208,3 +208,10 @@ __marimo__/
 
 
 .DS_Store
+
+# venv virtual environment
+venv_d200_ps2_py/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
